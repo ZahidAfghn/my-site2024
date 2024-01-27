@@ -1,0 +1,30 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/*--cards--*/
+
+#card{
+    width: 100px 20px;
+    background: #efefef;
+
+}
+.card{
+    height: 300px;
+    width: 200px;
+    background: #ccb5b5;
+    text-align: center;
+}
+
+.card img{
+    top: 10px;
+    width: 50px;
+}
+.card h1{
+
+    position: absolute;
+}
+.card a{
+    bottom: 3px;
+    font-size: larger;
+}
